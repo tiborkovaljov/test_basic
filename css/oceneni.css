@@ -1,3 +1,11 @@
 img {
     width: 110px;
 }
+
+html body {
+    background-color: grey;
+}
+
+.navbar {
+    background-color: white;
+}
