@@ -9,3 +9,7 @@ html body {
 .navbar {
     background-color: white;
 }
+
+.nadpisa h1 {
+    font-size: 13rem;
+}
