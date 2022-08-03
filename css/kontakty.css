@@ -9,3 +9,73 @@ html body {
 .navbar {
     background-color: white;
 }
+
+.nadpis h1 {
+    color: #7FFF00;
+    font-size: 90px;
+    text-align: center;
+    font-family: 'JetBrains Mono';
+}
+
+.telcislo h1{
+    color: #90EE90;
+    text-align: center;
+    font-family: 'JetBrains Mono';
+    font-size: 40px;
+}
+
+.telcislo p {
+    color: white;
+    text-align: center;
+    font-family: 'JetBrains Mono';
+    font-size: 30px;
+}
+
+.email h1 {
+    color: #90EE90;
+    text-align: center;
+    font-family: 'JetBrains Mono';
+    font-size: 40px;
+}
+
+.email p {
+    color: white;
+    text-align: center;
+    font-family: 'JetBrains Mono';
+    font-size: 30px;
+}
+
+.social h1 {
+    color: #90EE90;
+    text-align: center;
+    font-family: 'JetBrains Mono';
+    font-size: 40px;
+}
+
+.social ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+.social li a {
+    text-align: center;
+}
+
+.pobocky h1{
+    color: #90EE90;
+    text-align: center;
+    font-family: 'JetBrains Mono';
+    font-size: 40px;
+}
+
+.pobocky p {
+    color: white;
+    text-align: center;
+    font-family: 'JetBrains Mono';
+    font-size: 30px;
+}
+
+.pobocky h2 {
+    color: lightblue;
+    text-align: center;
+}
