@@ -11,5 +11,68 @@ html body {
 }
 
 .nadpisa h1 {
-    font-size: 13rem;
+    font-size: 10rem;
+    font-family: 'JetBrains Mono';
+    text-align: center;
+    color: #7FFF00;
+}
+
+.cel {
+    padding: 6rem;
+}
+
+.k1 h1 {
+    color: #90EE90;
+    text-align: center;
+    font-family: 'JetBrains Mono';
+    font-size: 40px;
+}
+
+.cel .k1 img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    border-radius: 30px 30px 30px 30px;
+}
+
+.cel .k1 p {
+    text-align: center;
+    color: white;
+    font-family: 'JetBrains Mono';
+    font-size: 30px;
+}
+
+.cel .k2 h1 {
+    color: #90EE90;
+    text-align: center;
+    font-family: 'JetBrains Mono';
+    font-size: 40px;
+}
+
+.cel .k2 p {
+    text-align: center;
+    color: white;
+    font-family: 'JetBrains Mono';
+    font-size: 30px;
+}
+
+.cel .k1 h3 {
+    color: lightblue;
+    text-align: center;
+    font-family: 'JetBrains Mono';
+}
+
+.cel .k2 img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    border-radius: 30px 30px 30px 30px;
+}
+
+.cel .k2 h3 {
+    color: lightblue;
+    text-align: center;
+    font-family: 'JetBrains Mono';
 }

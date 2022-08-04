@@ -9,3 +9,35 @@ html body {
 .navbar {
     background-color: white;
 }
+
+.nadpis {
+    padding: 10rem;
+}
+
+.nadpis h1 {
+    color: #7FFF00;
+    font-size: 90px;
+    text-align: center;
+    font-family: 'JetBrains Mono';
+}
+
+.nadpis .oc2 p {
+    text-align: center;
+    color: white;
+    font-family: 'JetBrains Mono';
+    font-size: 30px;
+}
+
+.nadpis .oc2 img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    border-radius: 30px 30px 30px 30px;
+}
+
+.nadpis .oc2 .kick h3 {
+    text-align: center;
+    color: lightblue;
+    font-family: 'JetBrains Mono';
+}

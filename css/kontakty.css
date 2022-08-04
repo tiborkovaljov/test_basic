@@ -12,7 +12,7 @@ html body {
 
 .nadpis h1 {
     color: #7FFF00;
-    font-size: 90px;
+    font-size: 10rem;
     text-align: center;
     font-family: 'JetBrains Mono';
 }
@@ -65,7 +65,7 @@ html body {
     color: #90EE90;
     text-align: center;
     font-family: 'JetBrains Mono';
-    font-size: 40px;
+    font-size: 40rpx;
 }
 
 .pobocky p {
@@ -78,4 +78,5 @@ html body {
 .pobocky h2 {
     color: lightblue;
     text-align: center;
+    font-family: 'JetBrains Mono';
 }
