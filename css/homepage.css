@@ -8,3 +8,63 @@ html body {
 .navbar {
     background-color: white;
 }
+
+.slider {
+    margin: 3em;
+}
+
+.kus1 h1{
+    color: #32CD32;
+    text-align: center;
+    font-family: 'JetBrains Mono';
+    font-size: 150px;
+}
+
+.kus1 h2 {
+    color: #7FFF00;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'JetBrains Mono';
+}
+
+.kus1 p {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'JetBrains Mono';
+}
+
+.akce .nadpis h1 {
+    color: #7FFF00;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'JetBrains Mono';
+}
+
+.akce .akce1 h1 {
+    color: #90EE90;
+    text-align: center;
+    font-family: 'JetBrains Mono';
+    font-size: 35px;
+}
+
+.akce .akce1 a {
+    text-align: center;
+    color: lightblue;
+    font-family: 'JetBrains Mono';
+    font-size: 20px;
+}
+
+.akce .akce2 h1 {
+    color: #90EE90;
+    text-align: center;
+    font-family: 'JetBrains Mono';
+    font-size: 35px;
+}
+
+.akce .akce2 a {
+    text-align: center;
+    color: lightblue;
+    font-family: 'JetBrains Mono';
+    font-size: 20px;
+}
